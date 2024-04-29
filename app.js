@@ -14,3 +14,5 @@ btn.addEventListener("click",()=>{
         getJoke();
     },1000)
 });
+
+//can be used for reference
